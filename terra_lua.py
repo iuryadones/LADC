@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
-#		Este programa simula o movimento dos planetas em torno do Sol.
+#		Este programa simula o movimento do sistema Terra - Lua em torno do Sol.
 #
 #		Criado por: MSc. Thiago Freire de Oliveira
 #
-#		Data: 17/02/2018
+#		Data: 28/02/2018
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------
 # Importando as bibliotecas necessárias
