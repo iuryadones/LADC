@@ -2,9 +2,9 @@
 
 Laboratório de Aprendizagem Desenvolvimento Científico
 
-## Requesitos para usar nossos projetos
+# Requesitos do projeto
 
-Install 
+## Install
 
 ### Ubuntu
 
@@ -64,5 +64,6 @@ Python 3.6.4
 ## Fontes
 
 [pyenv-installer](https://github.com/pyenv/pyenv-installer)
+
 [pyenv fixed Common-build-problems](https://github.com/pyenv/pyenv/wiki/Common-build-problems)
 
