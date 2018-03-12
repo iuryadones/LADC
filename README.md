@@ -55,9 +55,6 @@ $ echo "ladc" > .python-version
 
 ```bash
 $ python -V
-```
-
-```bash
 Python 3.6.4
 ```
 
