@@ -58,6 +58,8 @@ $ python -V
 Python 3.6.4
 ```
 
+Adicione também Python 2.7.14
+
 ## Fontes
 
 [pyenv-installer](https://github.com/pyenv/pyenv-installer)
