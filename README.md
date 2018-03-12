@@ -40,7 +40,7 @@ Criando um ambiente de trabalho com python
 $ pyenv virtualenv 3.6.4 ladc
 ```
 
-Criando uma pasta de trabalho
+Criando pasta de trabalho
 
 ```bash
 $ mkdir lab
